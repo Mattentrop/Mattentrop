@@ -1,6 +1,6 @@
-# Olá, eu sou Matheus Henrique! 👋
+# Olá, eu sou Matheus Henrique! 
 
-Estudante de **Engenharia da Computação** (6º período) na UNIVAP, com foco em **HPC**, **Infraestrutura** e **Redes**.
+Estudante de **Engenharia da Computação** (7º período) na UNIVAP, com foco em **HPC**, **Infraestrutura** e **Redes**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-b65250348/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.rodrigues2704@gmail.com)
